@@ -1,5 +1,6 @@
 # Coffee-Chain-Analysis
 "Coffee Chain Sales Report" — Represents the overall purpose of the power bi dashboard
+
 **1. Header Information**
 **Title:** "Coffee Chain Sales Report" — Represents the overall purpose of the dashboard.
 **Logo:** A coffee cup with the label "coffeeshop" to indicate branding.
